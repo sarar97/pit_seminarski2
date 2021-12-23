@@ -54,3 +54,9 @@ class Slika(Frame):
                      font='Helvetica 10 bold', bg='powderblue')
         btn.grid(row=3, column=1, pady=5)
         self.grid(row=1, column=1, columnspan=2)
+
+# root = Tk()
+# root.geometry('1200x800')
+# tp = Slika('cat.png')
+# # tss.setGeometry(300, 300)
+# root.mainloop()
